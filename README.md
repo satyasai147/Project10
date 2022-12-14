@@ -6,8 +6,8 @@ This is a web based application developed for lifestyle related based website in
 ### This web based lifestyle application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://black-pond-0e2a6ec00.2.azurestaticapps.net
-**project demo video link** - 
+**Project Link** - https://wonderful-sky-094bab000.2.azurestaticapps.net
+**project demo video link** - https://youtu.be/cJxY-aDgY_0
 
 ## Azure technologies used for Project
 
@@ -53,4 +53,3 @@ This is a web based application developed for lifestyle related based website in
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- JavaScripts
